@@ -58,5 +58,5 @@ linux:
 
 publish:
   provider: github
-  owner: LumenStorm
+  owner: shenyanshu
   repo: OrisonSpace
